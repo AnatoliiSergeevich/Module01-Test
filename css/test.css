@@ -1,0 +1,21 @@
+h1{
+   color: red;
+   background-color: rgb(4, 59, 169);
+}
+p{
+   color: rgb(0, 255, 0);
+   background-color: rgb(92, 46, 46);
+}
+ul{
+   color: rgb(18, 117, 197);
+   background-color: black;
+}
+
+ol li{
+   color: blueviolet;
+   background-color: black;
+}
+
+a{
+   color: aquamarine;
+}
