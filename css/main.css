@@ -7,14 +7,18 @@ body{
 .header {
    display: flex;
    border-bottom: 1px solid #000;
-   padding-bottom: 10px;
+   padding: 10px 20px;
+
+
 
    font-size: 20px;
+
+   align-items: center;
 }
 
 .logo {
    margin-right: 50px;
-
+   padding: 5px 15px;
    background-color: rebeccapurple;
 
 }
@@ -30,15 +34,6 @@ h1, h2, h3{
    letter-spacing: 0.5px;
 }
 
-
-footer{
-   font-size: 13px;
-}
-
-
-
-
-
 ul {
    display: flex;
    list-style-type: none;
@@ -46,7 +41,7 @@ ul {
    margin: 0;
 }
 ul > li {
-   margin-right: 10px;
+   margin-right: 30px;
 }
 .box {
    display: flex;
@@ -54,10 +49,17 @@ ul > li {
    gap: 20px;
    border-bottom: 1px solid #000;
 }
+
 .aside {
-   border-right: 1px solid #000;
-   padding-right: 20px;
+   background-color: lavander;
+   padding: 10px 20px;
 }
+
 .post {
    padding-bottom: 20px;
+}
+
+footer{
+   font-size: 13px;
+   padding: 0 20px;
 }
