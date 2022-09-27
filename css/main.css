@@ -17,12 +17,13 @@ body{
 .logo {
    margin-right: 50px;
    padding: 5px 15px;
+   color: lightgreen;
    background-color: rebeccapurple;
 
 }
 
 a {
-   color: lightgreen;
+   color: rebeccapurple;
    font-weight: 700;
    text-decoration: none
 }
