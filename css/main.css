@@ -69,3 +69,16 @@ footer{
    padding: 0 20px;
 }
 
+
+
+
+.link {
+   background: rebeccapurple;
+   color: white;
+   padding: 8px 15px;
+   margin-left: 10px;
+}
+
+.header li:last-child {
+   margin-right: 0;
+}
